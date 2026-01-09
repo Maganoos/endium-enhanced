@@ -1,6 +1,7 @@
 plugins {
 	id 'net.fabricmc.fabric-loom-remap' version "${loom_version}"
 	id 'maven-publish'
+    id 'com.modrinth.minotaur' version "2.+"
 }
 
 version = project.mod_version
@@ -93,4 +94,17 @@ publishing {
 		// The repositories here will be used for publishing your artifact, not for
 		// retrieving dependencies.
 	}
+}
+
+modrinth {
+    token = System.getenv("MODRINTH_TOKEN")
+    projectId  = project.archives_base_name
+    versionName = ("Endium Enhanced v" + version)
+    uploadFile = remapJar
+    changelog = System.getenv("CHANGELOG")
+    dependencies {
+        required.project "fabric-api"
+    }
+    gameVersions = ["1.21.11"]
+    syncBodyFrom = rootProject.file("README.md").text
 }
