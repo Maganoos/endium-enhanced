@@ -1,0 +1,17 @@
+{
+  "block.endium-enhanced.endium_block": "Endium Block",
+  "block.endium-enhanced.endium_ore": "Endium Ore",
+  "block.endium-enhanced.endium_scrap_block": "Endium Scrap Block",
+  "item.endium-enhanced.endium_bow": "Endium Bow",
+  "item.endium-enhanced.endium_elytra": "Endium Elytra",
+  "item.endium-enhanced.endium_ingot": "Endium Ingot",
+  "item.endium-enhanced.endium_rod": "Endium Fishing Rod",
+  "item.endium-enhanced.endium_scrap": "Endium Scrap",
+  "item.endium-enhanced.endium_shears": "Endium Shears",
+  "item.endium-enhanced.endium_upgrade.additions_slot_description": "Add Endium Ingot",
+  "item.endium-enhanced.endium_upgrade.applies_to": "Equipment",
+  "item.endium-enhanced.endium_upgrade.base_slot_description": "Add Equipment",
+  "item.endium-enhanced.endium_upgrade.ingredients": "Endium Ingot",
+  "item.endium-enhanced.endium_upgrade_smithing_template": "Endium Upgrade Template",
+  "itemGroup.endium-enhanced.group": "Endium Enhanced"
+}

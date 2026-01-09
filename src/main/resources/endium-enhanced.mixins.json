@@ -1,0 +1,21 @@
+{
+  "required": true,
+  "package": "eu.magkari.mc.endium.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "AbstractArrowMixin",
+    "EnchantmentHelperMixin",
+    "EnderManMixin",
+    "FishingHookMixin",
+    "PlayerMixin",
+    "SheepMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  },
+  "mixinextras": {
+    "minVersion": "0.5.0"}
+}
