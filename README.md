@@ -3,6 +3,8 @@
 
 Endium Enhanced adds a unique tier of tools, weapons, and armor focused on upgrading select items in Minecraft. While the game already has plenty of gear, some items like elytra and fishing rods didn’t get the attention they deserve--until now!
 
+### Textures by [startraveler](https://modrinth.com/user/startraveler)
+
 ---
 
 ## Features
