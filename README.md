@@ -1,5 +1,6 @@
 # Endium Enhanced
-[![Modrinth Downloads](https://img.shields.io/modrinth/dt/AdJubqnA?style=for-the-badge&logo=modrinth&color=%2300AF5C)](https://modrinth.com/mod/AdJubqnA) [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Maganoos/endium-enhanced/total?style=for-the-badge&logo=github&color=whitesmoke)](https://github.com/Maganoos/endium-enhanced) ![Modrinth Version](https://img.shields.io/modrinth/v/AdJubqnA?style=for-the-badge&logo=semver)<br>
+[![modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg)](https://modrinth.com/mod/endium-enhanced)
+[![codeberg](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/codeberg_vector.svg)](https://codeberg.org/Maganoos/endium-enhanced)
 
 Endium Enhanced adds a unique tier of tools, weapons, and armor focused on upgrading select items in Minecraft. While the game already has plenty of gear, some items like elytra and fishing rods didn’t get the attention they deserve--until now!
 

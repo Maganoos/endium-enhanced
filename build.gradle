@@ -101,7 +101,7 @@ modrinth {
     projectId  = project.archives_base_name
     versionName = ("Endium Enhanced v" + version)
     uploadFile = remapJar
-    changelog = System.getenv("CHANGELOG")
+    changelog = rootProject.file("CHANGELOG.md").text
     dependencies {
         required.project "fabric-api"
     }
