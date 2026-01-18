@@ -1,0 +1,19 @@
+{
+  "block.endium-enhanced.endium_block": "Блок Эндиума",
+  "block.endium-enhanced.endium_ore": "Эндиумовая Руда",
+  "block.endium-enhanced.endium_scrap_block": "Блок Рудного Эндиума",
+  "item.endium-enhanced.endium_bow": "Эндиумовый лук",
+  "item.endium-enhanced.endium_elytra": "Эндиумовая Элитра",
+  "item.endium-enhanced.endium_ingot": "Слиток Эндиума",
+  "item.endium-enhanced.endium_nugget": "Эндиумовый Самородок",
+  "item.endium-enhanced.endium_rod": "Эндиумовая Удочка",
+  "item.endium-enhanced.endium_scrap": "Рудный Эндиум",
+  "item.endium-enhanced.endium_shears": "Эндиумовые Ножницы",
+  "item.endium-enhanced.endium_turtle_helmet": "Эндиумово-черепаший Шлем",
+  "item.endium-enhanced.endium_upgrade.additions_slot_description": "Добавте Слиток Эндиума",
+  "item.endium-enhanced.endium_upgrade.applies_to": "Экипировка",
+  "item.endium-enhanced.endium_upgrade.base_slot_description": "Добавте вашу Экипировку",
+  "item.endium-enhanced.endium_upgrade.ingredients": "Эндиумовый Слиток",
+  "item.endium-enhanced.endium_upgrade_smithing_template": "Эндиумовый шаблон улучшения",
+  "itemGroup.endium-enhanced.group": "Endium Enhanced"
+}
