@@ -9,8 +9,8 @@
 	],
 	"contact": {
 		"homepage": "https://modrinth.com/mod/endium-enhanced",
-        "issues": "https://github.com/Maganoos/endium-enhanced/issues",
-		"sources": "https://github.com/Maganoos/endium-enhanced"
+        "issues": "https://codeberg.org/Maganoos/endium-enhanced/issues",
+		"sources": "https://codeberg.org/Maganoos/endium-enhanced"
 	},
 	"license": "MIT",
 	"icon": "assets/endium-enhanced/icon.png",
